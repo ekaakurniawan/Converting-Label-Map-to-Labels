@@ -3,7 +3,7 @@
 Notebook to convert label map to label names for object detection.
 
 ## Setup and Run
-- Launch Intel® DevCloud remote development environment for OpenVINO with TensorFlow integration from [this link](https://software.intel.com/content/www/us/en/develop/offsite/devcloud-edge/openvino-integration-with-tensorflow.html).
+- Launch Intel® DevCloud remote development environment for OpenVINO with TensorFlow integration from [this link](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/overview.html).
 - Go to `File` and click `Open...`.
 - In the new `Files` window, drop down `New` button and click `Terminal`.
 - Run the following commands on the terminal.
